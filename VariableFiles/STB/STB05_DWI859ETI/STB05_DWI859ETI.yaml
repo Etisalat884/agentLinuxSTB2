@@ -1,0 +1,83 @@
+####### logs ############
+
+filename:
+     STB_Logs
+log_file_path:
+     /home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/Logs/STB_Logs
+devices:
+      196.168.1.59
+
+
+port: 0
+ref_img3: '/home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/Images/Screenshot/ref3_replace.jpg'
+report_img_path: 'http://192.168.1.101:8084/workspace/Images/ref3_replace.jpg'
+
+# ref_img1: '/home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/STB05_DWI859ETI/Report/ref1_replace.jpg'
+# comp_img: '/home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/STB05_DWI859ETI/Report/comp_replace.jpg'
+
+ref_img1: '/home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/Images/Screenshot/ref1_replace.jpg'
+comp_img: '/home/ltts/Documents/evqual_automation/agentLinuxSTB2/workspace/Images/Screenshot/comp_replace.jpg'
+
+eti_profile_info: 'profile_info'
+ref_profile_info: 'ref_profile_info'
+
+eti_new_profile: 'new_profile'
+ref_new_profile: 'ref_new_profile'
+
+eti_validate_user: 'validate_user'
+ref_validate_user: 'ref_validate_user'
+
+eti_profile: 'profile_page'
+ref_profile: 'ref_profile'
+
+eti_add_profile: 'add_new'
+ref_add_profile: 'ref_add_profile'
+
+eti_user_profile: 'user_profile'
+ref_user_profile: 'ref_user_profile'
+
+eti_user1_profile: 'user1_profile'
+ref_user1_profile: 'ref_user1_profile'
+
+eti_user_login: 'user_login'
+ref_user_login: 'ref_user_login'
+
+eti_user_login_after_pin_changed: 'user_login_after_pin_changed'
+ref_user_login_after_pin_changed: 'ref_user_login_after_pin_changed'
+
+eti_Admin_login: 'Admin_login'
+ref_Admin_login: 'ref_Admin_login'
+
+eti_disable_pin_login: 'user_login_after_disable_pin'
+ref_disable_pin_login: 'ref_disable_pin_login'
+
+eti_disable_box_office_pin_login: 'disable_box_office_pin_login'
+ref_disable_box_office_pin_login: 'ref_disable_box_office_pin_login'
+
+eti_home_page: 'home_page'
+ref_home_page: 'Reference/ref_home_page.jpg'
+
+eti_always_login_as_same_profile: 'login_as_same_profile'
+ref_always_login_as_same_profile: 'ref_always_login_as_same_profile'
+
+eti_rental_limit: 'rental_limit'
+ref_rental_limit: 'ref_rental_limit'
+
+eti_tv_rating: 'tv_rating_profile'
+ref_tv_rating: 'ref_tv_rating'
+
+eti_logo: 'tv_by_e_logo'
+ref_logo: 'ref_logo'
+
+pause_ref: 'ref_pause'
+pause_comp: 'pause'
+
+progressbar_ref: 'progressbar_ref'
+progressbar_com: 'test_admin_test_com'
+
+progressbarforward_ref: 'progressbarfrwd_ref'
+progressbarforward_com: 'frwd_com'
+
+rmvfav_ref: 'Rmv_Fav'
+rmvfav_com: 'Rmv_Fav_com'
+
